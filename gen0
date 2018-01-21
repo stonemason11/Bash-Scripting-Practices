@@ -1,0 +1,15 @@
+# gen0
+# This an example of "life" initialization file
+# can not use spaces for dead cells in this file, because
+# of a peculiarity in bash arrays
+# Lines begining with a '#' are comments, and the script ignores them
+__.__..___
+__.._.____
+____.___..
+_._______.
+____._____
+..__...___
+____._____
+___...____
+__.._..___
+_..___..__
